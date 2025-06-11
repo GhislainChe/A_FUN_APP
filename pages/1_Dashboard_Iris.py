@@ -4,6 +4,8 @@ import pandas as pd
 import plotly.express as px
 import os
 
+wel = "Welcome to this Fun App"
+print(wel)
 # absolute path to this file
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 # absolute path to this file's root directory
